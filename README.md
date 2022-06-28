@@ -29,4 +29,6 @@
 
 <h4 align="center">🚀Plataforma de aulas digitais baseada no FrameWork da Rocket Seat🚀</h4>
 
-<img>
+<h1 align="center">
+   <img alt="Readme" title="Readme" src="Readme.png"/>
+</h1>
