@@ -29,6 +29,10 @@
 
 <h4 align="center">🚀Plataforma de aulas digitais baseada no FrameWork da Rocket Seat🚀</h4>
 
+<br>
+
+
+<h1 align="center">Imagem</h1>
 <h1 align="center">
    <img alt="Imagem Banner" title="Readme" src="./event-platform/src/img/Banner1.png"/>
 </h1>
