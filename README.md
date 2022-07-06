@@ -22,7 +22,6 @@
 
 <h1></h1>
 
-
 <h3 align="center">Sobre o Projeto</h3>
 
 <h4 align="center">🚀Plataforma de aulas digitais baseada no FrameWork da Rocket Seat🚀</h4>
