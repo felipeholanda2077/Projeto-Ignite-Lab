@@ -29,7 +29,6 @@
 
 <br>
 
-
 <h1 align="center">Imagem</h1>
 <h1 align="center">
    <img alt="Imagem Banner" title="Readme" src="./event-platform/src/img/Banner1.png"/>
@@ -52,5 +51,6 @@
 
 <br>
 <br>
-  <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
+
+ <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
    <p align="center">---------------------------END------------------------</p>
